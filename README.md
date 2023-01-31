@@ -1,0 +1,2 @@
+# Reporte-de-hipotesis-y-analisis-de-test-AB-sobre-sistema-de-recomendaciones-de-tienda-en-linea
+Para una tienda en línea se realizó un test A/B para contemplar los efectos de un nuevo embudo de pago que implica a un sistema de recomendaciones. Las prueba se realizó entre el 7 de diciembre de 2020 y el 1 de enero de 2021 abarcando un 15% de los nuevos usuarios de la región UE, esperando alrrededor de 6000 participantes.
